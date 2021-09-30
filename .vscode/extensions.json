@@ -1,6 +1,7 @@
 {
 	"recommendations": [
 		"grapecity.gc-excelviewer",
-		"shivaprasanth.dothttp-code"
+		"shivaprasanth.dothttp-code",
+		"quicktype.quicktype"
 	]
 }
